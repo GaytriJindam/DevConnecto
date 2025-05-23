@@ -1,0 +1,9 @@
+{
+    "mongoURI": "mongodb+srv://gaytri02:Sangita11@devconnecto.d0fri.mongodb.net/devconnecto_test?retryWrites=true&w=majority&appName=DevConnecto",
+    "jwtSecret":"mysecrettoken"
+}
+
+  
+
+
+
